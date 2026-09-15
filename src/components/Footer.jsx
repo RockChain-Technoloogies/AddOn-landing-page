@@ -11,7 +11,7 @@ export function Footer() {
       <div className="flex gap-5">
         <a href="#home" className="transition hover:text-[#0879c7]">Instagram</a>
         <a href="#home" className="transition hover:text-[#0879c7]">LinkedIn</a>
-        <a href="#home" className="transition hover:text-[#0879c7]">Privacy</a>
+        <a href="#privacy" className="transition hover:text-[#0879c7]">Privacy</a>
       </div>
     </div>
   </footer>;
