@@ -9,8 +9,6 @@ export function Footer() {
       </a>
       <p>© 2026 AddOn. Discover local, together.</p>
       <div className="flex gap-5">
-        <a href="#home" className="transition hover:text-[#0879c7]">Instagram</a>
-        <a href="#home" className="transition hover:text-[#0879c7]">LinkedIn</a>
         <a href="#about" className="transition hover:text-[#0879c7]">About AddOn</a>
         <a href="#privacy" className="transition hover:text-[#0879c7]">Privacy</a>
         <a href="#terms" className="transition hover:text-[#0879c7]">Terms & Conditions</a>
