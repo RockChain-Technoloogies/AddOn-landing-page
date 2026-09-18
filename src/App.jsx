@@ -7,7 +7,10 @@ import { Categories } from './components/Categories.jsx';
 import { Screenshots } from './components/Screenshots.jsx';
 import { Cta } from './components/Cta.jsx';
 import { Footer } from './components/Footer.jsx';
-import { AboutPage, BusinessPage, EventsPage, PrivacyPage, TermsPage } from './components/Pages.jsx';
+import { BusinessPage, EventsPage } from './components/Pages.jsx';
+import { AboutPage } from './components/About.jsx';
+import { PrivacyPage } from './components/Privacy.jsx';
+import { TermsPage } from './components/Terms.jsx';
 
 function App() {
   const [scrolled, setScrolled] = useState(false);
